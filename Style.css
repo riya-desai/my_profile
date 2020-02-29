@@ -1,0 +1,112 @@
+body {background-color: rgb(30, 63, 90);
+	color: grey;
+	font-family: candara; 
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%
+}
+
+
+h1 {
+color: rgb(58, 36, 59);
+font-family: impact;
+font-weight: 50;
+font-size: 50px;
+}
+
+ h2 {
+color: rgb(27, 113, 131);
+font-family: impact;
+font-weight: 60;
+font-size: 30px;
+}
+
+h3 {color: rgb(27, 113, 131);
+font-family: papyrus;
+font-weight: 70;
+font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: grey
+}
+
+a:hover {
+	color: blue
+}
+
+div {
+background: white;
+padding: 60px;
+margin: 50px;
+box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+border-radius: 4px	
+}
+
+p {
+	width: 700px;
+	margin: 10px auto;
+}
+
+
+
+@media (max-width: 960px) {
+      .container {
+      	width: 700px
+      		}
+		}
+
+@media (max-width: 810px) {
+      .container {
+      	width: 700px
+      		}
+		}
+@media (max-width: 720px) {
+      .container {
+      	width: 500px
+      		}
+		}
+@media (max-width: 540px) {
+      .container {
+      	width: 300px
+      		}
+		}
+@media (max-width: 450px) {
+      .container {
+      	width: 200px
+      		}
+		}
+@media (max-width: 320px) {
+      .container {
+      	width: 180px
+      		}
+		}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px 
+}
+
+.list-inline i {
+	font-size: 60px;
+	padding: 20px;
+}
+
+.Introduction-middle {
+	text-align: center;
+}
+
+.Conclusion-middle {
+	text-align: center;
+}
+
+
+
+
+
+
