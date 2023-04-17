@@ -43,16 +43,16 @@ div {
 padding: 60px;
 margin: 50px;
 box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
-border-radius: 4px;
+border-radius: 10px;
 background-color: rgb(2, 23, 43);
 	
 }
 
 p {
-	width: 700px;
-	margin: 10px auto;
-	padding: 30px;
-	font-family: Helvetica Neue;
+width: 700px;
+margin: 10px auto;
+padding: 30px;
+font-family: Helvetica Neue;
 font-weight: 20;
 font-size: 20px;
 }
