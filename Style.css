@@ -13,20 +13,20 @@ body {background-color: rgb(30, 63, 90);
 
 h1 {
 color: rgb(255, 255, 255);
-font-family: helvetica;
+font-family: Helvetica Neue;
 font-weight: 50;
 font-size: 50px;
 }
 
  h2 {
 color: rgb(255, 255, 255);
-font-family: helvetica;
+font-family: Helvetica Neue;
 font-weight: 60;
 font-size: 30px;
 }
 
 h3 {color: rgb(255, 255, 255);
-font-family: helvetica;
+font-family: Helvetica Neue;
 font-weight: 70;
 font-size: 20px;
 }
@@ -52,7 +52,10 @@ background-color: rgb(2, 23, 43);
 p {
 	width: 700px;
 	margin: 10px auto;
-	padding: 20px;
+	padding: 30px;
+	font-family: Helvetica Neue;
+font-weight: 20;
+font-size: 20px;
 }
 
 
